@@ -1,0 +1,36 @@
+.carouselmainBox{
+    width: 100%;
+    height: 100vh;
+    background-image: url('https://preview.colorlib.com/theme/capture2/images/hero_1.jpg.webp');
+}
+
+.carouselmainBox img{
+    width: 100%;
+    height: 100%;
+ filter: brightness(0.6);
+
+}
+
+
+.myWorks{
+    width: 100%;
+    height: 300px;
+   
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+   
+}
+
+.workText p{
+    font-family: "Muli", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, "Noto Sans", sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
+    color: #f4ad2d;
+    font-size: 20px;
+}
+
+.workText h2{
+    font-family: "Muli", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, "Noto Sans", sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
+    font-size: 40px;
+    font-weight: normal;
+}
